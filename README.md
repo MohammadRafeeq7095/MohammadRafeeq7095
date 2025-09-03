@@ -30,7 +30,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>  
-<img src="https://avatars.githubusercontent.com/u/5459889?s=200&v=4" alt="SonarQube" width="60" height="60"/>  
 <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="90" height="60"/>  
 <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="Tomcat" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>  
