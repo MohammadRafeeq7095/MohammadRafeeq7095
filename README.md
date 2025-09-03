@@ -9,15 +9,24 @@
 ---
 
 ### 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-rafeeq-angadi-devops/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohammadRafeeq7095)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angadimohammadrafeeq@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-rafeeq-angadi-devops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MohammadRafeeq7095" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:angadimohammadrafeeq@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Languages and Tools  
 
-<p align="left">  
+<p align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
@@ -34,9 +43,14 @@
 
 ### 📊 GitHub Stats  
 
-![Rafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRafeeq7095&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRafeeq7095&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadRafeeq7095&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRafeeq7095&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRafeeq7095&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRafeeq7095&theme=dark" alt="streak"/>
+</p>  
 
 ---
 
@@ -58,7 +72,7 @@
 ### 👀 Profile Visitors  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=MohammadRafeeq7095&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=MohammadRafeeq7095&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />  
 </p>  
 
 ⭐️ From [MohammadRafeeq7095](https://github.com/MohammadRafeeq7095)  
