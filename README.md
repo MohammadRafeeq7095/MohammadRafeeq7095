@@ -1,15 +1,17 @@
-# Hi 👋, I'm Mohammad Rafeeq  
+<h1 align="center">Hi 👋, I'm Mohammad Rafeeq</h1>  
 
-🚀 **Aspiring Cloud & DevOps Engineer** | AWS | Docker | Kubernetes | Terraform | Jenkins  
-
-💡 Passionate about building scalable cloud infrastructure, automating deployments, and exploring DevOps practices.  
+<p align="center">  
+  <a href="https://git.io/typing-svg">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+%7C+Building+%7C+Automating" alt="Typing SVG" />  
+  </a>  
+</p>  
 
 ---
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-rafeeq-angadi-devops/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohammadRafeeq7095)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angadimohammadrafeeq@gmail.com)  
 
 ---
 
@@ -52,5 +54,11 @@
 - [CI/CD Pipeline with Jenkins](https://github.com/yourrepo/jenkins-pipeline)  
 
 ---
+
+### 👀 Profile Visitors  
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=MohammadRafeeq7095&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />  
+</p>  
 
 ⭐️ From [MohammadRafeeq7095](https://github.com/MohammadRafeeq7095)  
