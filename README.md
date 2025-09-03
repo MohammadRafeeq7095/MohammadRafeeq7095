@@ -59,9 +59,9 @@
 ---
 
 ### 💻 Projects  
-- [Tic-Tac-Toe WebApp on Docker & AWS](https://github.com/MohammadRafeeq7095/tic-tak-toe)  
-- [3-Tier Application Deployment using Terraform & AWS](https://github.com/yourrepo/3tier)  
-- [CI/CD Pipeline with Jenkins](https://github.com/yourrepo/jenkins-pipeline)  
+- [Tic-Tac-Toe WebApp on Docker & AWS](https://github.com/MohammadRafeeq7095/tic-tac-toe-docker)
+- [3-Tier Application Deployment using Terraform & AWS](https://github.com/MohammadRafeeq7095/2nd10WeeksofCloudOps-main)
+- [DevSecOps on AWS EKS](https://github.com/MohammadRafeeq7095/devsecops-netflix)  
 
 ---
 
